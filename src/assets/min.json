@@ -1,0 +1,244 @@
+[
+  {
+    "resumeId": 1111,
+    "language": "Svenska",
+    "consultantInfo": {
+      "firstName": "Simon",
+      "lastName": "Berg",
+      "role": "Senior Software Engineer",
+      "yearsOfExperience": 10,
+      "skillLevel": "5",
+      "salesDescription": "Highly skilled in software development",
+      "imageUrl": "https://example.com/image.jpg"
+    },
+    "sellerInfo": {
+      "sellerName": "Dennis",
+      "sellerLastname": "Stigsson",
+      "email": "seller@example.com",
+      "phoneNumber": "+46701234567"
+    },
+    "skills": [
+      {
+        "skill": "Java",
+        "proficiency": 5,
+        "categories": ["Backend"]
+      },
+      {
+        "skill": "Python",
+        "proficiency": 3,
+        "categories": ["Backend", "Data Science"]
+      },
+      {
+        "skill": "JavaScript",
+        "proficiency": 4,
+        "categories": ["Frontend"]
+      },
+      {
+        "skill": "SQL",
+        "proficiency": 3,
+        "categories": ["Database"]
+      }
+    ],
+    "assignment": {
+      "clients": [
+        {
+          "client": "Client A",
+          "roles": ["Backend Developer", "Team Lead"],
+          "technologies": ["Java", "Spring Boot"],
+          "timeSpan": "2018-2020",
+          "scope": "Full-time",
+          "assignmentDescription": "Developed microservices for a large scale application"
+        },
+        {
+          "client": "Client B",
+          "roles": ["Full Stack Developer"],
+          "technologies": ["Java", "React"],
+          "timeSpan": "2020-2022",
+          "scope": "Full-time",
+          "assignmentDescription": "Developed a web application from scratch"
+        },
+        {
+          "client": "Client C",
+          "roles": ["Backend Developer"],
+          "technologies": ["Python", "Django"],
+          "timeSpan": "2022-Present",
+          "scope": "Part-time",
+          "assignmentDescription": "Maintaining and improving a web application"
+        },
+        {
+          "client": "Client D",
+          "roles": ["Data Scientist"],
+          "technologies": ["Python", "Pandas"],
+          "timeSpan": "2022-Present",
+          "scope": "Part-time",
+          "assignmentDescription": "Analyzing data and developing models"
+        }
+      ]
+    },
+    "summarizedCompetence": {
+      "educations": [
+        {
+          "date": "2008-2012",
+          "place": "University A",
+          "description": "Bachelor's degree in Computer Science"
+        }
+      ],
+      "languages": [
+        {
+          "language": "English",
+          "level": "Fluent"
+        }
+      ],
+      "certificates": [
+        {
+          "year": 2015,
+          "certificateName": "Oracle Certified Professional, Java SE 8 Programmer",
+          "description": "Certification for Java programming"
+        }
+      ],
+      "courses": [
+        {
+          "date": "2024-01-01",
+          "courseName": "Advanced Python",
+          "courseDescription": "Learned advanced concepts in Python"
+        },
+        {
+          "date": "2024-02-01",
+          "courseName": "React",
+          "courseDescription": "Learned how to develop web applications using React"
+        },
+        {
+          "date": "2024-03-01",
+          "courseName": "Django",
+          "courseDescription": "Learned how to develop web applications using Django"
+        },
+        {
+          "date": "2024-04-01",
+          "courseName": "Data Science with Python",
+          "courseDescription": "Learned how to analyze data and develop models using Python"
+        }
+      ]
+    }
+  },
+  {
+    "resumeId": 111,
+    "language": "Svenska",
+    "consultantInfo": {
+      "firstName": "Simone",
+      "lastName": "Bergquista",
+      "role": "Senior Software Engineer",
+      "yearsOfExperience": 10,
+      "skillLevel": "5",
+      "salesDescription": "Highly skilled in software development",
+      "imageUrl": ""
+    },
+    "sellerInfo": {
+      "sellerName": "Dennis",
+      "sellerLastname": "Stigsson",
+      "email": "seller@example.com",
+      "phoneNumber": "+46701234567"
+    },
+    "skills": [
+      {
+        "skill": "Java",
+        "proficiency": 5,
+        "categories": ["Backend"]
+      },
+      {
+        "skill": "Python",
+        "proficiency": "****",
+        "categories": ["Backend", "Data Science"]
+      },
+      {
+        "skill": "JavaScript",
+        "proficiency": 5,
+        "categories": ["Frontend"]
+      },
+      {
+        "skill": "SQL",
+        "proficiency": 3,
+        "categories": ["Database"]
+      }
+    ],
+    "assignment": {
+      "clients": [
+        {
+          "client": "Client A",
+          "roles": ["Backend Developer", "Team Lead"],
+          "technologies": ["Java", "Spring Boot"],
+          "timeSpan": "2018-2020",
+          "scope": "Full-time",
+          "assignmentDescription": "Developed microservices for a large scale application"
+        },
+        {
+          "client": "Client B",
+          "roles": ["Full Stack Developer"],
+          "technologies": ["Java", "React"],
+          "timeSpan": "2020-2022",
+          "scope": "Full-time",
+          "assignmentDescription": "Developed a web application from scratch"
+        },
+        {
+          "client": "Client C",
+          "roles": ["Backend Developer"],
+          "technologies": ["Python", "Django"],
+          "timeSpan": "2022-Present",
+          "scope": "Part-time",
+          "assignmentDescription": "Maintaining and improving a web application"
+        },
+        {
+          "client": "Client D",
+          "roles": ["Data Scientist"],
+          "technologies": ["Python", "Pandas"],
+          "timeSpan": "2022-Present",
+          "scope": "Part-time",
+          "assignmentDescription": "Analyzing data and developing models"
+        }
+      ]
+    },
+    "summarizedCompetence": {
+      "educations": [
+        {
+          "date": "2008-2012",
+          "place": "University A",
+          "description": "Bachelor's degree in Computer Science"
+        }
+      ],
+      "languages": [
+        {
+          "language": "English",
+          "level": "Fluent"
+        }
+      ],
+      "certificates": [
+        {
+          "year": 2015,
+          "certificateName": "Oracle Certified Professional, Java SE 8 Programmer",
+          "description": "Certification for Java programming"
+        }
+      ],
+      "courses": [
+        {
+          "date": "2024-01-01",
+          "courseName": "Advanced Python",
+          "courseDescription": "Learned advanced concepts in Python"
+        },
+        {
+          "date": "2024-02-01",
+          "courseName": "React",
+          "courseDescription": "Learned how to develop web applications using React"
+        },
+        {
+          "date": "2024-03-01",
+          "courseName": "Django",
+          "courseDescription": "Learned how to develop web applications using Django"
+        },
+        {
+          "date": "2024-04-01",
+          "courseName": "Data Science with Python",
+          "courseDescription": "Learned how to analyze data and develop models using Python"
+        }
+      ]
+    }
+  }
+]

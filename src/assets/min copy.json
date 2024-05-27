@@ -1,0 +1,36 @@
+{
+  "consultans": [
+    {
+      "firstName": "Simon",
+      "lastName": "Berg",
+      "currentlyAvailable": false,
+      "setEndDate": ""
+    },
+    {
+      "firstName": "Anna",
+      "lastName": "Berg",
+      "currentlyAvailable": true,
+      "withEndDate": false,
+      "setEndDate": ""
+    },
+    {
+      "firstName": "Bert",
+      "lastName": "Berger",
+      "currentlyAvailable": true,
+      "withEndDate": true,
+      "setEndDate": "2024-02-01"
+    },
+    {
+      "firstName": "Simone",
+      "lastName": "Ahlquist",
+      "currentlyAvailable": false,
+      "setEndDate": "2024-05-01"
+    },
+    {
+      "firstName": "Gertrude",
+      "lastName": "Gran",
+      "currentlyAvailable": false,
+      "setEndDate": ""
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+https://react.dev/reference/react/useReducer
+https://react.dev/learn/scaling-up-with-reducer-and-context#step-2-put-state-and-dispatch-into-context
+  //use Navigate davids viedo 14:58 https://vimeo.com/zocom/review/867713561/03b9652de9
+..     debugger; - set to debug
+
+  //https://dev.to/craigaholliday/using-the-usereducer-hook-in-react-with-typescript-27m1
+//https://www.youtube.com/watch?v=L6BE-U3oy80&ab_channel=WebDevSimplified

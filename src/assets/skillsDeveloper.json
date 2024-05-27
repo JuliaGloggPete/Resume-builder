@@ -1,0 +1,85 @@
+{
+  "skills": [
+    {
+      "name": ["languages"],
+      "skills": [
+        "Assembly Language",
+        "C",
+        "C#",
+        "C++",
+        "CSS",
+        "Dart",
+        "Fortran",
+        "Go",
+        "Groovy",
+        "Html",
+        "JavaScript",
+        "Java",
+        "Lisp",
+        "Lua",
+        "MATLAB",
+        "Perl",
+        "Python",
+        "R",
+        "Ruby",
+        "Rust",
+        "Scala",
+        "Scheme",
+        "Shell Scripting",
+        "TypeScript",
+        "XML"
+      ]
+    },    {
+      "name": ["frames"],
+      "skills": [
+        "Angular",
+        "ASP.NET",
+        "ASP.NET Core",
+        "Backbone.js",
+        "Django",
+        "Express.js",
+        "Flask",
+        "Laravel",
+        "Node.js",
+        "React",
+        "Ruby on Rails",
+        "Spring Framework",
+        "Symfony",
+        "Vue.js"
+      ]
+    },
+    {
+      "name": ["tools"],
+      "skills": [
+        "Android Studio",
+        "Blender",
+        "Eclipse",
+        "Git",
+        "GitHub",
+        "IntelliJ IDEA",
+        "JIRA",
+        "Maven",
+        "NetBeans",
+        "Subversion",
+        "Visual Studio Code"
+      ]
+    },
+    {
+      "name": ["methods"],
+      "skills": [
+        "Agile",
+        "Continuous Integration (CI)",
+        "Domain-Driven Design (DDD)",
+        "Extreme Programming (XP)",
+        "Rational Unified Process (RUP)",
+        "Scrum",
+        "Test-Driven Development (TDD)",
+        "Unified Modeling Language (UML)"
+      ]
+    }
+
+
+
+
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "skills": [
+    {
+      "name": ["Design and Prototyping Tools"],
+      "skills": [
+        "Projektledning",
+        "Förändringsledning",
+        "Adobe XD",
+        "Sketch",
+        "Figma",
+        "InVision",
+        "Axure RP",
+        "Balsamiq Mockups"
+       
+      ]
+    },
+    {
+      "name": ["Diagramming Tools"],
+      "skills": [
+        "Lucidchart",
+        "Microsoft Visio"
+       
+      ]
+    }
+
+  ]
+}

@@ -1,0 +1,39 @@
+/* TODO move to index css? */
+
+#root {
+  @apply container mx-auto p-4;
+}
+
+.form-input {
+  @apply w-full bg-slate-100 justify-center py-2 px-4 rounded-sm shadow-md text-sm my-2 font-medium text-slate-800 cursor-pointer;
+}
+.error-message {
+  @apply text-red-400 text-xs;
+}
+
+.btn {
+  @apply bg-MyBlue text-white rounded-lg  px-4 py-2 hover:bg-red-300;
+}
+.border-summary {
+  @apply relative border border-MyBlue -mx-2 my-2 p-2;
+}
+
+.delete {
+  @apply border border-MyBlue p-1 rounded-md text-MyBlue hover:bg-red-300;
+}
+
+.btn-white {
+  @apply text-MyBlue bg-white rounded-lg  px-4 py-2;
+}
+.btn-outlined {
+  @apply bg-white border border-MyBlue text-MyBlue rounded-lg  px-4 py-2;
+}
+.plus {
+  @apply bg-white text-MyBlue border border-MyBlue rounded-full h-8 w-8 p-1 absolute -bottom-4;
+}
+.form-section {
+  @apply border-2 mb-4 border-MyBlue bg-white text-MyBlue max-w-6xl mx-auto px-6 lg:px-9 py-3 w-full flex flex-col mt-11;
+}
+.form-head-of-section {
+  @apply text-3xl bg-MyBlue text-white font-semibold uppercase -mx-6 lg:-mx-9 -mt-3 mb-3 px-6 lg:px-9 pt-6 pb-3;
+}

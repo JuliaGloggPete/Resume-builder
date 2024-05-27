@@ -1,0 +1,87 @@
+{
+  "language": "en",
+  "consultantInfo": {
+    "firstName": "Anders",
+    "lastName": "Svenson",
+    "role": "Systemutvecklare",
+    "yearsOfExperience": 25,
+    "skillLevel": "5",
+    "salesDescription": "Anders är en erfaren och mycket kompetent systemutvecklare.",
+    "imageUrl": ""
+  },
+  "sellerInfo": {
+    "email": "mail@mail.com",
+    "phoneNumber": "123456789",
+    "sellerName": "Dennis",
+    "sellerLastname": "Stigsson"
+  },
+  "skills": [
+    { "skill": "C#", "categories": ["languages"], "proficiency": null },
+    { "skill": "JavaScript", "categories": ["languages"], "proficiency": null },
+    { "skill": "TypeScript", "categories": ["languages"], "proficiency": 0 },
+    { "skill": "Html", "categories": ["languages"], "proficiency": 0 },
+    { "skill": "SQL", "categories": ["languages"], "proficiency": null },
+    { "skill": "CSS", "categories": ["languages"], "proficiency": null },
+    { "skill": "GraphQL", "categories": ["frames"], "proficiency": 0 },
+    { "skill": "jQuery", "categories": ["frames"], "proficiency": 0 },
+    { "skill": "XML", "categories": ["languages"], "proficiency": 0 },
+    { "skill": "Ajax", "categories": ["tools"], "proficiency": 0 },
+    { "skill": "Sitecore", "categories": ["tools"], "proficiency": 0 },
+    { "skill": "Sitecore Commerce", "categories": ["tools"], "proficiency": 0 },
+    { "skill": "Umbarco", "categories": ["tools"], "proficiency": 0 },
+    { "skill": "EPiServer", "categories": ["tools"], "proficiency": 0 },
+    { "skill": "InRiver PIM", "categories": ["tools"], "proficiency": 0 },
+    { "skill": "Stebo", "categories": ["tools"], "proficiency": 0 },
+    { "skill": "Step PIM", "categories": ["tools"], "proficiency": 0 },
+    { "skill": "Solr", "categories": ["tools"], "proficiency": 0 },
+    { "skill": "Kafka", "categories": ["tools"], "proficiency": 0 }
+  ],
+  "assignment": {
+    "clients": [
+      {
+        "client": "THOR",
+        "roles": ["Systemutvecklare"],
+        "technologies": [
+          "C#",
+          "Html",
+          "JavaScript",
+          "Sitecore",
+          "Step PIM",
+          "Stebo",
+          "Solr",
+          "Kafka"
+        ],
+        "timeSpan": "pågående",
+        "scope": "100%",
+        "assignmentDescription": "Utveckling och förvaltning av webbplattform" 
+      }
+    ]
+  },
+  "summarizedCompetence": {
+    "educations": [
+      {
+        "date": "2000-4000",
+        "place": "Lund",
+        "description": "Abcdefg"
+      }
+    ],
+    "languages": [
+      { "language": "svenska", "level": "Mother tongue" },
+      { "language": "engelska", "level": "Fluent" }
+    ],
+    "certificates": [
+      {
+        "year": 2018,
+        "certificateName": "Associate Developer ",
+        "description": "Sitecore Certified Platform "
+      }
+    ],
+    "courses": [
+      {
+        "courseName": "Fututure course",
+        "courseDescription": "sss",
+        "date": "2024-05-23"
+      }
+    ]
+  }
+}
